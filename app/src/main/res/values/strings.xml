@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Sharm El Sheikh Tour Guide</string>
+    <string name="lorem">Lorem is bren Lorem is bren Lorem is bren Lorem is bren Lorem is bren Lorem is bren Lorem is bren Lorem is bren Lorem is bren</string>
+    <string name="place_image">Place image</string>
+    <string name="place_name">Place Name</string>
+
+    <!--Categories-->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurant</string>
+    <string name="cafe">Cafe</string>
+    <string name="nightlife">Nightlife</string>
+
+    <!--Restaurants-->
+    <string name="fares">Fares Seafood</string>
+    <string name="fares_des">Delicious food, nice service and great variety of fish. Crabs, squids, lobsters,shrimps and more. Choose what you want and how to cook them.(Cream Soup is recommended)</string>
+    <string name="sushi">Wasabi Sushi &amp; Lounge</string>
+    <string name="sushi_des">Great sushi, fresh, good quality, very tasty and very good service</string>
+    <string name="mac">McDonald\'s</string>
+    <string name="mac_des">Classic, long-running fast-food chain known for its burgers, fries and shakes</string>
+    <string name="enab">Enab El Sham Restaurant</string>
+    <string name="enab_des">Syrian restaurant known for its delicious Shawerma and tasty Kunafa with addition to the superior service and hospitality</string>
+    <string name="melodies">Pizza Melodies</string>
+    <string name="melodies_des">Best Italian food restaurant. Great pizza and pasta. nice atmosphere and stuff too</string>
+
+    <!--Hotels-->
+    <string name="four_seasons">Four Seasons Resort</string>
+    <string name="four_seasons_des">A rare desert-and-sea sanctuary. An intimate Arabian village, with Moorish-inspired architecture. Polished resort with 6 restaurants/bars &amp; 4 pools, plus a spa, a gym &amp; a private beach</string>
+    <string name="iberotel">Iberotel Palace</string>
+    <string name="iberotel_des">One of the best hotels in sharm, located in a good place near the old market. food is natural,rooms are big and service is on the highest level</string>
+    <string name="savoy">Royal Savoy</string>
+    <string name="savoy_des">The Royal Savoy is an exclusive club wing, complete with its own private lounge, terrace, pool, and beach area. Created for guests who prefer to stay in a more intimate and secluded location within the grounds of the Savoy. </string>
+    <string name="mercato">IL Mercato Hotel &amp; Spa</string>
+    <string name="mercato_des">Exclusive five stars city hotel located in Hadaba area, right in the center of IL mercato Promenade which is home to some of the biggest international brands. With 318 spacious and elegantly furnished guest rooms, large spa with sauna, massage rooms and Jacuzzi, four luxurious swimming pools and more.</string>
+    <string name="aqua">Aqua Blue Water park Resort</string>
+    <string name="aqua_des">The Greatest hotel of them all. Very well known for its water park which consists of 62 slides. clean and tidy, family friendly and amazing stuff and service</string>
+    <string name="rixos">Rixos Adult Friendly</string>
+    <string name="rixos_des">198 Superior, 290 Deluxe Rooms, 70 Family Rooms and 137 Junior Suites are spread around this beautifully designed modern resort. Several swimming pools wind there way between buildings or a gorgeous stretch of beach providing guests with lots of options on where to spend their days</string>
+    <string name="sunrise">Sunrise Arabian Beach Resort</string>
+    <string name="sunrise_des">Discover the spirit of Arabian ambiance. Walk through entrances and hallways elegantly designed to provide an authentic Arabian feel. Gaze upon the beauty of the exterior, complementing the natural beauty of the Red Sea</string>
+    <string name="delta">Delta Sharm Resort</string>
+    <string name="delta_des">Set on extensive lush, landscaped grounds, it offers apartments with a TV and a sitting area. Facilities include an outdoor pool with a waterfall and water slides. studios and apartments are decorated with elegant wooden furniture and large windows. known for its great prices</string>
+
+    <!--Cafes-->
+    <string name="basata">Basata Cafe</string>
+    <string name="farsha">Farsha Cafe</string>
+    <string name="rayahen">Rayahen Roastery</string>
+    <string name="sadiki">Sadiki Cafe</string>
+    <string name="tamra">Tamra Cafe</string>
+
+    <!--Nightlife-->
+    <string name="hard_rock">Hard Rock</string>
+    <string name="space">Space Sharm El Sheikh</string>
+    <string name="pacha">Pacha Sharm El Sheikh</string>
+    <string name="pangaea">Pangaea Night Club</string>
+    <string name="casino">Sinai Grande Casino</string>
+
+
+</resources>

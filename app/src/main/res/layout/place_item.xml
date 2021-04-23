@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--container of item in the list-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="18dp">
+
+    <!--Image of place-->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/ic_launcher_background"
+        android:scaleType="centerCrop"
+        android:id="@+id/image"
+        android:contentDescription="@string/place_image" />
+
+    <!--Name of PLace-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/place_name"
+        android:textColor="@color/teal_700"
+        android:id="@+id/name"
+        android:textSize="32sp"
+        android:paddingTop="16dp"
+        />
+
+    <!--Rating of place-->
+    <RatingBar
+        android:id="@+id/rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:isIndicator="true"
+        android:clickable="false"
+        style="@style/RatingBar"
+        android:rating="4"
+        android:progressTint="@color/pink"
+        android:paddingBottom="16dp"
+        tools:targetApi="lollipop" />
+
+    <!--Description of place-->
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lorem" />
+
+</LinearLayout>
